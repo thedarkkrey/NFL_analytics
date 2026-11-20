@@ -1,0 +1,17 @@
+population,group,n,games
+raw_rows,all,554587,3151
+win_model_plays,train,283313,2064
+win_model_plays,calibration,73558,543
+win_model_plays,evaluation,71934,544
+fourth_down_decisions,train,6388,1987
+fourth_down_decisions,calibration,1835,530
+fourth_down_decisions,evaluation,1825,529
+red_zone_entries,train,13413,2063
+red_zone_entries,calibration,3425,543
+red_zone_entries,evaluation,3546,544
+early_down_plays,train,197111,2064
+early_down_plays,calibration,50848,543
+early_down_plays,evaluation,49789,544
+valid_kickoffs,2018-2023,15613,1583
+valid_kickoffs,2024,2725,272
+valid_kickoffs,2025,2706,272

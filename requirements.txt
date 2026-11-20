@@ -1,0 +1,8 @@
+# Das Wheel von scipy 1.15.x lässt sich unter macOS 27 nicht laden (dlopen-Fehler in _spropack).
+numpy==2.2.6
+pandas==2.3.3
+pyarrow==25.0.1
+scipy==1.16.3
+scikit-learn==1.7.2
+matplotlib==3.10.9
+pytest==9.2.0

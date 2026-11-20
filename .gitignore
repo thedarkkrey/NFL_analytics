@@ -1,0 +1,19 @@
+# macOS / Python
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Daten
+data/raw/
+data/reference/
+data/processed/
+results/bootstrap/
+
+# Fremdmaterial und Entwürfe (urheberrechtlich geschützt bzw. nicht öffentlich)
+literatur/
+Vorlesung/
+
+
+# Office-Temp
+~$*
