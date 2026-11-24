@@ -1,0 +1,9 @@
+check,metric,n
+red_zone,common,20383
+red_zone,only_new,1
+red_zone,only_reference,0
+red_zone,label_mismatch,2
+kickoffs,common,21037
+kickoffs,only_new,7
+kickoffs,only_reference,0
+kickoffs,label_mismatch,0
